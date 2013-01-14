@@ -4,4 +4,6 @@ At the moment, this script will take the name of a basic geometry.in file for th
 
 Note that this project is unofficial and is not affiliated with the FHI-aims or VASP projects. You are welcome to use, share and build on this script, but do so at your own risk.
 
-The immediate development goal is to improve robustness in handling relaxation files which include additional information beyond basic geometry.
+The current development goal is to improve robustness in handling relaxation files which include additional information beyond basic geometry.
+
+Work is dormant at the moment as the addition of geometry.in support to VESTA has provided a workaround.
