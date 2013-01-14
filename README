@@ -1,4 +1,4 @@
-Using Github for an internal utility script seems like overkill, but it's all good pactice!
+Using Github for an internal utility script seems like overkill, but it's all good practice!
 
 At the moment, this script will take the name of a basic geometry.in file for the FHI-aims quantum chemistry code, and writes out the atom positions and unit cell vectors in a suitable format for a VASP POSCAR file. This is useful for cross-checking DFT calculations, and for viewing relaxed structures.
 
