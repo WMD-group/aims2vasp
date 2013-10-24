@@ -11,4 +11,4 @@ Work is dormant at the moment as the addition of geometry.in support to VESTA ha
 
 Disclaimer
 ----------
-This script is not affiliated with *FHI-aims*. Feel free to use it and build on it, but do so at your own risk.
+This script is not affiliated with *FHI-aims*. This script is licensed under the GPLv3; feel free to use it and build on it, but do so at your own risk.
